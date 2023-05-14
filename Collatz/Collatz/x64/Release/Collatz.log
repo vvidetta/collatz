@@ -1,0 +1,7 @@
+﻿  Collatz.cpp
+  Generating code
+  72 of 183 functions (39.3%) were compiled, the rest were copied from previous compilation.
+    43 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Collatz.vcxproj -> C:\GGSource\Personal\Collatz\Collatz\x64\Release\Collatz.exe
